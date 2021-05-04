@@ -1,4 +1,4 @@
-hello world
+<h3 align=center> Welcome! </h3>
 
 [![caseymccullough's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseymccullough&theme=blue-green)](https://github.com/caseymccullough/github-readme-stats)
 
