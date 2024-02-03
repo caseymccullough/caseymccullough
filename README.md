@@ -17,5 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caseymccullough&hide=python&layout=compact&theme=blue-green)](https://github.com/caseymccullough/github-readme-stats)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=caseymccullough.caseymccullough)
 
